@@ -1,23 +1,23 @@
 {
-  "name": "beltah-md",
+  "name": "ᴅᴇᴍᴏɴ_ᴇᴍᴩᴇʀᴏʀ_ᴍᴅ",
   "version": "1.0.0",
   "description": "",
-  "main": "beltah.js",
+  "main": "malvin.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "s": "node beltah.js",
+    "s": "node malvin.js",
     "beltah": "pm2 start beltah.js --attach --max-memory-restart 490M",
     "c": "tsc"
   },
   "keywords": [
     "bot",
     "Baileys",
-    "Beltah",
+    "malvinking",
     "whatsapp",
     "whatsapp-bot",
     "Faouz995"
   ],
-  "author": "Beltah Tech Team",
+  "author": "ᴍᴀʟᴠɪɴ ᴋɪɴɢ",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
