@@ -1,9 +1,9 @@
 {
-  "name":"𝗕𝗘𝗟𝗧𝗔𝗛 𝗠𝗗",
-  "description":"Deploy now your 𝗕𝗘𝗟𝗧𝗔𝗛 𝗠𝗗 bot, BELTAH-MD was developed by Beltah.Make sure you fill all valuables to avoid bot from sleeping. ",
+  "name":"ᴅᴇᴍᴏɴ_ᴇᴍᴩᴇʀᴏʀ_ᴍᴅ",
+  "description":"Deploy now your ᴅᴇᴍᴏɴ_ᴇᴍᴩᴇʀᴏʀ_ᴍᴅ bot, ᴅᴇᴍᴏɴ_ᴇᴍᴩᴇʀᴏʀ_ᴍᴅ was developed by ᴍᴀʟᴠɪɴ ᴋɪɴɢ .Make sure you fill all valuables to avoid bot from sleeping. ",
   "keywords":["bot","node","baileys","whatsapp"],
-  "logo":"https://telegra.ph/file/dcce2ddee6cc7597c859a.jpg",
-  "repository":"https://github.com/Beltahmd/beltah-md",
+  "logo":"https://telegra.ph/file/a568780a23f9a324cdf4f.jpg",
+  "repository":"https://github.com/malvinking/Demon_Emperor_Md",
   "succes_url":"/",
   "stack":"container",
   "env":{
@@ -35,14 +35,14 @@
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":"𝗕𝗘𝗟𝗧𝗔𝗛 𝗠𝗗",
+      "value":"ᴅᴇᴍᴏɴ_ᴇᴍᴩᴇʀᴏʀ_ᴍᴅ",
       "required":false
 
     } ,
      "BOT_MENU_LINKS" : {
     
       "description":"add one or many link for your bot menu  ; eg : url1,url2,url3.....",
-      "value":"https://telegra.ph/file/81d4a442a1bd96339924e.mp4,https://telegra.ph/file/dcce2ddee6cc7597c859a.jpg",
+      "value":"https://telegra.ph/file/81d4a442a1bd96339924e.mp4,https://telegra.ph/file/a568780a23f9a324cdf4f.jpg",
       "required":false
        
      },
@@ -76,14 +76,14 @@
     
     "desc": "Your Name",
     "required": false,
-    "value": "Beltahdev"
+    "value": "ᴍᴀʟᴠɪɴ ᴋɪɴɢ"
   },
     "NUMERO_OWNER":
   {
     
     "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
     "required":false,
-    "value": "254114141192,254737681758"
+    "value": "263780166288263780934873"
   },
     "WARN_COUNT":
   {
