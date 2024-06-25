@@ -32,7 +32,7 @@ const temps = moment().format('HH:mm:ss');
 const date = moment().format('DD/MM/YYYY');
 
   let infoMsg =  `
-╭────《《𝗕𝗘𝗟𝗧𝗔𝗛 𝗠𝗗》》────⬡
+╭────《《ᴅᴇᴍᴏɴ_ᴇᴍᴩᴇʀᴏʀ_ᴍᴅ》》────⬡
 ┴  ╭─────────────⬡
 │❒⁠⁠⁠⁠│ *ADMIN* : ${s.OWNER_NAME}
 │❒│⁠⁠⁠⁠ *CALENDER* : ${date}
@@ -41,17 +41,17 @@ const date = moment().format('DD/MM/YYYY');
 │❒│⁠⁠⁠⁠ *ORDERS* : ${cm.length} 
 │❒│⁠⁠⁠⁠ *SPACE* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
 │❒│⁠⁠⁠⁠ *CHROME* : ${os.platform()}
-│❒│⁠⁠⁠⁠ *THEME* : *BELTAH KE*
+│❒│⁠⁠⁠⁠ *THEME* : *ᴅᴇᴍᴏɴ*
 ┬  ╰──────────────⬡
 ╰─── ···▸ *💰LIKE A BOSS💰* ··──⬡\n`;
     
 let menuMsg = `
 ✇─────✇────✇ 
-✇ *𝗕𝗘𝗟𝗧𝗔𝗛 𝗠𝗗 V3.0.0* ✇
+✇ *ᴅᴇᴍᴏɴ_ᴇᴍᴩᴇʀᴏʀ_ᴍᴅ V3.0.0* ✇
 ✇─────✇────✇
 
 
- *✇BELTAH-MD COMMANDS✇*
+ *✇ᴅᴇᴍᴏɴ_ᴇᴍᴩᴇʀᴏʀ_ᴍᴅ COMMANDS✇*
 `;
 
     for (const cat in coms) {
@@ -70,7 +70,7 @@ let menuMsg = `
 |⏣ *RELEASED ON : 02.06.2024*
 
 |⏣THANK YOU FOR CHOOSING 
-    *𝗕𝗘𝗟𝗧𝗔𝗛 𝗠𝗗*
+    *ᴅᴇᴍᴏɴ_ᴇᴍᴩᴇʀᴏʀ_ᴍᴅ*
 *❒⁠⁠⁠⁠—————————— ❒⁠⁠⁠⁠——————————❒⁠⁠⁠⁠*
 `;
 
@@ -78,7 +78,7 @@ let menuMsg = `
 
    if (lien.match(/\.(mp4|gif)$/i)) {
     try {
-        zk.sendMessage(dest, { video: { url: lien }, caption:infoMsg + menuMsg, footer: "Je suis *Beltahmd*, déveloper Beltah Tech" , gifPlayback : true }, { quoted: ms });
+        zk.sendMessage(dest, { video: { url: lien }, caption:infoMsg + menuMsg, footer: "Je suis imalvinking*, déveloper Speed Tech" , gifPlayback : true }, { quoted: ms });
     }
     catch (e) {
         console.log("🥵🥵 Menu erreur " + e);
@@ -88,7 +88,7 @@ let menuMsg = `
 // Vérification pour .jpeg ou .png
 else if (lien.match(/\.(jpeg|png|jpg)$/i)) {
     try {
-        zk.sendMessage(dest, { image: { url: lien }, caption:infoMsg + menuMsg, footer: "Je suis *Beltahmd*, déveloper Beltah Tech" }, { quoted: ms });
+        zk.sendMessage(dest, { image: { url: lien }, caption:infoMsg + menuMsg, footer: "Je suis *malvinking*, déveloper Speed Tech" }, { quoted: ms });
     }
     catch (e) {
         console.log("🥵🥵 Menu erreur " + e);
