@@ -41,11 +41,11 @@ const date = moment().format('DD/MM/YYYY');
 │☹︎│▸ *PLUGINS* : ${cm.length} 
 │☹︎│▸ *STORAGE* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
 │☹︎│▸ *RUNNING ON* : ${os.platform()}
-│☹︎│▸ *THEME* : *BELTAH KE*
+│☹︎│▸ *THEME* : *ᴅᴇᴍᴏɴ*
 │☹︎╰──────────────✇
 ╰──────────────────✇
 ╭───────────────✣
-  《《 *𝗕𝗘𝗟𝗧𝗔𝗛 𝗠𝗗 V3.0.0* 》》
+  《《 *ᴅᴇᴍᴏɴ_ᴇᴍᴩᴇʀᴏʀ_ᴍᴅ V3.0.0* 》》
 ╰───────────────✇\n`;
     
 let menuMsg = `
@@ -69,9 +69,9 @@ let menuMsg = `
     menuMsg += `
 ◇            ◇
 *»»————————— ★ ——————————««*
-|⏣BELTAH-MD CREATED BY BELTAH TECH TEAM
+|⏣ᴅᴇᴍᴏɴ_ᴇᴍᴩᴇʀᴏʀ_ᴍᴅ CREATED BY ᴍᴀʟᴠɪɴ ᴋɪɴɢ 
 |⏣ *RELEASED ON : 02.06.2024*
-|⏣THANK YOU FOR CHOOSING *𝗕𝗘𝗟𝗧𝗔𝗛 𝗠𝗗*
+|⏣THANK YOU FOR CHOOSING *ᴅᴇᴍᴏɴ_ᴇᴍᴩᴇʀᴏʀ_ᴍᴅ*
 *»»—————————— ★ ——————————««*
 `;
 
@@ -89,7 +89,7 @@ let menuMsg = `
 // Vérification pour .jpeg ou .png
 else if (lien.match(/\.(jpeg|png|jpg)$/i)) {
     try {
-        zk.sendMessage(dest, { image: { url: lien }, caption:infoMsg + menuMsg, footer: "Je suis *Beltahmd*, déveloper Beltah Tech" }, { quoted: ms });
+        zk.sendMessage(dest, { image: { url: lien }, caption:infoMsg + menuMsg, footer: "Je suis *ᴅᴇᴍᴏɴ*, déveloper ᴍᴀʟᴠɪɴ-ᴋɪɴɢ" }, { quoted: ms });
     }
     catch (e) {
         console.log("🥵🥵 Menu erreur " + e);
