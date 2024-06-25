@@ -39,3 +39,9 @@
 2. Now deploy.
     <br>
     <a href='https://dashboard.heroku.com/new?template=https://github.com/malvinking/DEMON_EMPEROR_MD' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
+
+
+ ## CONTACT DEVELOPER
+
+⏣REACH BELTAH-MD DEVELOPER ON WHATSAPP BY CLICKING  [**HERE**](https://wa.me/263780166288)  AND ON TELEGRAM BY CLICKING  [**HERE**](https://t.me/malvink1ng) 
+
