@@ -165,7 +165,7 @@ setTimeout(() => {
             
             var dev = [dj, dj2,dj3,luffy].map((t) => t.replace(/[^0-9]/g) + "@s.whatsapp.net").includes(auteurMessage);
             function repondre(mes) { zk.sendMessage(origineMessage, { text: mes }, { quoted: ms }); }
-            console.log("\t [][]...{Beltah-Md}...[][]");
+            console.log("\t [][]...[Demon_Emperor_Md}...[][]");
             console.log("=========== written message===========");
             if (verifGroupe) {
                 console.log("message provenant du groupe : " + nomGroupe);
@@ -804,7 +804,7 @@ zk.ev.on('group-participants.update', async (group) => {
         zk.ev.on("connection.update", async (con) => {
             const { lastDisconnect, connection } = con;
             if (connection === "connecting") {
-                console.log("ℹ️ Beltah is connecting...");
+                console.log("ℹ️ Demon is connecting...");
             }
             else if (connection === 'open') {
                 console.log("✅ ᴅᴇᴍᴏɴ_ᴇᴍᴩᴇʀᴏʀ_ᴍᴅ Connected to WhatsApp! ☺️");
@@ -846,7 +846,7 @@ zk.ev.on('group-participants.update', async (group) => {
                 
                 if((conf.DP).toLowerCase() === 'yes') {     
 
-                let cmsg = `BELTAH-MD is active now
+                let cmsg = `DEMON-MD is active now
 
   Prefix   : [ ${prefixe} ]  
   ⁠⁠⁠⁠Mode    : ${md}
