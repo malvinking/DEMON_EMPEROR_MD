@@ -43,5 +43,5 @@
 
  ## CONTACT DEVELOPER
 
-⏣REACH BELTAH-MD DEVELOPER ON WHATSAPP BY CLICKING  [**HERE**](https://wa.me/263780166288)  AND ON TELEGRAM BY CLICKING  [**HERE**](https://t.me/malvink1ng) 
+⏣REACH ᴅᴇᴍᴏɴ_ᴇᴍᴩᴇʀᴏʀ_ᴍᴅ DEVELOPER ON WHATSAPP BY CLICKING  [**HERE**](https://wa.me/263780166288)  AND ON TELEGRAM BY CLICKING  [**HERE**](https://t.me/malvink1ng) 
 
