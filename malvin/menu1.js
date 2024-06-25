@@ -32,7 +32,7 @@ const temps = moment().format('HH:mm:ss');
 const date = moment().format('DD/MM/YYYY');
 
   let infoMsg =  `
-*BELTAH-MD AVAILABLE MENUS* 
+*ᴅᴇᴍᴏɴ_ᴇᴍᴩᴇʀᴏʀ_ᴍᴅ AVAILABLE MENUS* 
 ╭─────────────────✣
 │❒⁠⁠⁠⁠╭─────────────✣
 │❒⁠⁠⁠⁠│▸ *MENU1* 
@@ -42,7 +42,7 @@ const date = moment().format('DD/MM/YYYY');
 │❒⁠⁠⁠⁠│▸ *PLUGINS* : ${cm.length} 
 │❒⁠⁠⁠⁠│▸ *RAM* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
 │❒⁠⁠⁠⁠│▸ *SAVER* : ${os.platform()}
-│❒⁠⁠⁠⁠│▸ *THEME* : *BELTAH KE*
+│❒⁠⁠⁠⁠│▸ *THEME* : *ᴅᴇᴍᴏɴ_ᴍᴅ*
 │❒⁠⁠⁠⁠╰──────────────✇
 ╰──────────────────✇\n`;
     
@@ -50,7 +50,7 @@ let menuMsg = `
 ╭─────────❒⁠⁠⁠⁠
    *like a boss*
 ╰─────────❒
-   ⁠⁠⁠⁠◔͜͡◔MADE EASY BY BELTAH◔͜͡◔
+   ⁠⁠⁠⁠◔͜͡◔MADE EASY BY ᴍᴀʟᴠɪɴ-ᴋɪɴɢ◔͜͡◔
 ╰───────────────────⏣`;
 
    var lien = mybotpic();
