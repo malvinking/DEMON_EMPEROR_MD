@@ -10,10 +10,10 @@ function apply(map, text) {
 
 function list(text, fancy) {
     let styles = Object.keys(fancy).filter(e => e.length < 3);
-    let msg = '\n*Availabe Fancy styles for BELTAH-MD:*\n\n';
+    let msg = '\n*Availabe Fancy styles for ᴅᴇᴍᴏɴ_ᴇᴍᴩᴇʀᴏʀ_ᴍᴅ:*\n\n';
     for (let style in styles) {
         if (style == 33) {
-            msg += (parseInt(style) + 1) + '. ' + 'beltah-md' + '\n';
+            msg += (parseInt(style) + 1) + '. ' + 'Demon_Emperor_Md' + '\n';
         } else {
             msg += (parseInt(style) + 1) + '. ' + fancy.apply(fancy[parseInt(style)], text) + '\n';
         }
